@@ -1,6 +1,9 @@
 ## Hi there 👋
+I am currently studying software at Gachon University.
+I am studying about software-related subjects such as computer networking and database.
+It's still lacking a lot, but it will gradually develop.
 
-<!--
+
 **seoue/seoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
